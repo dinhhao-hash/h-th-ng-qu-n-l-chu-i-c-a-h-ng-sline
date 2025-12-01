@@ -1,2 +1,14 @@
-# h-th-ng-qu-n-l-chu-i-c-a-h-ng-sline
-sline là một chuỗi các chi nhánh từ quán cà phê, nhà hàng ăn uống, quán billiards,...
+# \# Repository Thực hành - Nhập môn Công nghệ Phần mềm
+
+# 
+
+# Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
+
+# 
+
+# \## Thông tin sinh viên
+
+# \- \*\*Họ và tên:\*\* Đinh Văn Hào
+
+# \- \*\*Mã số sinh viên:\*\* 24S1020026
+
